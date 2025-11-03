@@ -170,7 +170,5 @@ show_career(selected)
 
 
 
-st.markdown("### 더 해보고 싶은 기능?")
-st.markdown("- 학교 과목과 연결한 맞춤 진로 추천, 심층 성격 분석, 진로별 실제 직업 인터뷰 요약 등도 만들어줄게 — 원하면 말해줘! 😊")
 
 st.caption("앱 제작: MBTI 진로 추천기 · Streamlit 버전")
